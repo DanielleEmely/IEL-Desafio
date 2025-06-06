@@ -1,0 +1,105 @@
+[
+  { "armSkuName": "Standard_E2_v5", "vcpu": 2, "memory": 16 },
+  { "armSkuName": "Standard_E4_v5", "vcpu": 4, "memory": 32 },
+  { "armSkuName": "Standard_E8_v5", "vcpu": 8, "memory": 64 },
+  { "armSkuName": "Standard_E16_v5", "vcpu": 16, "memory": 128 },
+  { "armSkuName": "Standard_E20_v5", "vcpu": 20, "memory": 160 },
+  { "armSkuName": "Standard_E32_v5", "vcpu": 32, "memory": 256 },
+  { "armSkuName": "Standard_E48_v5", "vcpu": 48, "memory": 384 },
+  { "armSkuName": "Standard_E64_v5", "vcpu": 64, "memory": 512 },
+  { "armSkuName": "Standard_E96_v5", "vcpu": 96, "memory": 672 },
+  { "armSkuName": "Standard_E104i_v5", "vcpu": 104, "memory": 672 },
+
+  { "armSkuName": "Standard_F2s_v2", "vcpu": 2, "memory": 4 },
+  { "armSkuName": "Standard_F4s_v2", "vcpu": 4, "memory": 8 },
+  { "armSkuName": "Standard_F8s_v2", "vcpu": 8, "memory": 16 },
+  { "armSkuName": "Standard_F16s_v2", "vcpu": 16, "memory": 32 },
+  { "armSkuName": "Standard_F32s_v2", "vcpu": 32, "memory": 64 },
+  { "armSkuName": "Standard_F48s_v2", "vcpu": 48, "memory": 96 },
+  { "armSkuName": "Standard_F64s_v2", "vcpu": 64, "memory": 128 },
+  { "armSkuName": "Standard_F72s_v2", "vcpu": 72, "memory": 144 },
+
+  { "armSkuName": "Standard_B2ats_v2", "vcpu": 2, "memory": 1 },
+  { "armSkuName": "Standard_B2als_v2", "vcpu": 2, "memory": 4 },
+  { "armSkuName": "Standard_B2as_v2", "vcpu": 2, "memory": 8 },
+  { "armSkuName": "Standard_B4als_v2", "vcpu": 4, "memory": 8 },
+  { "armSkuName": "Standard_B4as_v2", "vcpu": 4, "memory": 16 },
+  { "armSkuName": "Standard_B8als_v2", "vcpu": 8, "memory": 16 },
+  { "armSkuName": "Standard_B8as_v2", "vcpu": 8, "memory": 32 },
+  { "armSkuName": "Standard_B16als_v2", "vcpu": 16, "memory": 32 },
+  { "armSkuName": "Standard_B16as_v2", "vcpu": 16, "memory": 64 },
+  { "armSkuName": "Standard_B32als_v2", "vcpu": 32, "memory": 64 },
+  { "armSkuName": "Standard_B32as_v2", "vcpu": 32, "memory": 128 },
+
+  { "armSkuName": "Standard_L8s_v2", "vcpu": 8, "memory": 64 },
+  { "armSkuName": "Standard_L16s_v2", "vcpu": 16, "memory": 128 },
+  { "armSkuName": "Standard_L32s_v2", "vcpu": 32, "memory": 256 },
+  { "armSkuName": "Standard_L48s_v2", "vcpu": 48, "memory": 384 },
+  { "armSkuName": "Standard_L64s_v2", "vcpu": 64, "memory": 512 },
+  { "armSkuName": "Standard_L80s_v26", "vcpu": 80, "memory": 640 },
+
+  { "armSkuName": "Standard_D2_v5", "vcpu": 2, "memory": 8 },
+  { "armSkuName": "Standard_D4_v5", "vcpu": 4, "memory": 16 },
+  { "armSkuName": "Standard_D8_v5", "vcpu": 8, "memory": 32 },
+  { "armSkuName": "Standard_D16_v5", "vcpu": 16, "memory": 64 },
+  { "armSkuName": "Standard_D32_v5", "vcpu": 32, "memory": 128 },
+  { "armSkuName": "Standard_D48_v5", "vcpu": 48, "memory": 192 },
+  { "armSkuName": "Standard_D64_v5", "vcpu": 64, "memory": 256 },
+  { "armSkuName": "Standard_D96_v5", "vcpu": 96, "memory": 384 },
+
+  {
+        "armSkuName": "Standard_M16bds_v3",
+        "vcpu": 16,
+        "memory": 128
+    },
+    {
+        "armSkuName": "Standard_M32bds_v3",
+        "vcpu": 32,
+        "memory": 256
+    },
+    {
+        "armSkuName": "Standard_M48bds_v3",
+        "vcpu": 48,
+        "memory": 384
+    },
+    {
+        "armSkuName": "Standard_M64bds_v3",
+        "vcpu": 64,
+        "memory": 512
+    },
+    {
+        "armSkuName": "Standard_M96bds_v3",
+        "vcpu": 96,
+        "memory": 768
+    },
+    {
+        "armSkuName": "Standard_M128bds_v3",
+        "vcpu": 128,
+        "memory": 1024
+    },
+    {
+        "armSkuName": "Standard_M176bds_v3",
+        "vcpu": 176,
+        "memory": 1536
+    },
+    {
+        "armSkuName": "Standard_M64bds_1_v3",
+        "vcpu": 64,
+        "memory": 1397
+    },
+    {
+        "armSkuName": "Standard_M96bds_2_v3",
+        "vcpu": 96,
+        "memory": 1946
+    },
+    {
+        "armSkuName": "Standard_M128bds_3_v3",
+        "vcpu": 128,
+        "memory": 2794
+    },
+    {
+        "armSkuName": "Standard_M176bds_4_v3",
+        "vcpu": 176,
+        "memory": 3892
+    }
+]
